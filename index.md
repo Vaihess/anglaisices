@@ -6,9 +6,7 @@ Les cours d'ESH seront dans cette section pour garder une trace des cours de mad
 ```markdown
 ## Chapitre introductif : 
 # Documents
-<a href="eshece1/Plan chapitre intro.pdf">Télécharger le plan du chapitre introductif</a>
+<a href="eshece1/Plan chapitre intro.pdf" download>Télécharger le plan du chapitre introductif</a>
 
 # Compléments
-
-
 ```
