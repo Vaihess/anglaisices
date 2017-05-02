@@ -6,7 +6,7 @@ Les cours d'ESH seront dans cette section pour garder une trace des cours de mad
 ```markdown
 ## Chapitre introductif : 
 # Documents
-<a href="http://download1500.mediafire.com/u0um11q69xbg/qu2x3a7u294q46c/Plan+chapitre+intro.pdf" download>Télécharger le plan du chapitre introductif</a>
+<a href="data:application/octet-stream,DATA" download="FILENAME">TITLE</a>
 
 # Compléments
 ```
