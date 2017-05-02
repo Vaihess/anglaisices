@@ -17,10 +17,10 @@ Partie I - II - III | Partie IV - V | Partie VI
 [Classiques](http://download1499.mediafire.com/wd7zc7sou8fg/4lvhf1j828dbxd5/Classiques.doc) | [Hayek](http://download1586.mediafire.com/ha9fkllg1sqg/7cbrnfh9mto669s/Hayek.doc) | [Ostrom](http://download1349.mediafire.com/zii68irfenag/94to4m1sdvii5f8/Ostrom.pdf)
 [Marx](http://www.mediafire.com/file/fr1xeo30krlplqq/Marx.doc) | [Schumpeter](http://download1582.mediafire.com/7ck15t8z63pg/5n5g9ddazduro53/Schumpeter.doc)
 [Mandeville - Fable des abeilles](http://download1072.mediafire.com/1611l7mse3lg/6ko6j66wg1s45rd/Mandeville.pdf) | [Théorie néoclassique](http://download1481.mediafire.com/4urwdyo4s4hg/4p859kap3t5quvp/Th%C3%A9orie+n%C3%A9oclassique.pdf) |
- | | [Wicksell](http://download1500.mediafire.com/akfxunds70eg/boc6vbl1ge16n6o/Wicksell.doc)
- | | [Hicks](http://download1488.mediafire.com/yfhv5dgnw1kg/e74w5kx04ylfp5o/Hicks.doc) 
- | | [Samuelson](http://download1479.mediafire.com/c27oesv2xb1g/vjvr2kad5mhbh0h/Samuelson.doc)
- | | [Keynes](http://download1510.mediafire.com/ogogem4ggeeg/u4czam4ernrub5j/Keynes.pdf)
+ | [Wicksell](http://download1500.mediafire.com/akfxunds70eg/boc6vbl1ge16n6o/Wicksell.doc) |
+ | [Hicks](http://download1488.mediafire.com/yfhv5dgnw1kg/e74w5kx04ylfp5o/Hicks.doc) |
+ | [Samuelson](http://download1479.mediafire.com/c27oesv2xb1g/vjvr2kad5mhbh0h/Samuelson.doc) |
+ | [Keynes](http://download1510.mediafire.com/ogogem4ggeeg/u4czam4ernrub5j/Keynes.pdf) |
 
 [Retour au choix des chapitres](https://vaihess.github.io/eshece1/esh) <br />
 [Retour page d'accueil](https://vaihess.github.io/eshece1)
