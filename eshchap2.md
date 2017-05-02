@@ -7,7 +7,8 @@ Télécharger le [plan](http://download1638.mediafire.com/w4tkooxymbxg/4xrib772r
 [Partie V du dossier documentaire](http://download1594.mediafire.com/51xy3h1hcy0g/t20lio38yi9q8gp/Chap+2+V.pdf) <br />
 [Partie VI du dossier documentaire](http://download1582.mediafire.com/v757ik9hd8hg/mc73mlq7iqhg2mb/Chap+2+VI.pdf) <br />
 
-#### Compléments : <br />
+#### Compléments :
+
 Partie I - II - III | Partie IV - V | Partie VI | Toast
 ------------ | ------------- | ------------ | -------------
 [Aristote](http://download1518.mediafire.com/tk9a6xsxlsqg/sdg7upq0i3k21pi/Aristote.doc)  | [Le capitalisme cognitif - Fiche HEC](http://download1493.mediafire.com/8uouf6lo02hg/qf6ofcchvdnu92g/hec+le+capitalisme+cognitif.pdf) | [Le capitalisme en Chine](http://download1652.mediafire.com/bpt7dtjkhzdg/2pdhgb32vkt90gn/Capitalisme+en+Chine.pdf) | [Ecoflash - Capitalisme, capitalismes](http://download1496.mediafire.com/lb2wdiczgfsg/exch2cmxhn3wa5w/Ecoflash+Capitalisme%2C+capitalismes.pdf)
