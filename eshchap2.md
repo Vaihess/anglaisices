@@ -16,7 +16,7 @@ Partie I - II - III | Partie IV - V | Partie VI | Toast
 [Quesnay](http://download1337.mediafire.com/2grx0m1bageg/lv9575vcy9h4npa/Quesnay.doc) | Emplacement vide | [Histoire de l'économie de la connaissance](http://download1515.mediafire.com/5a9l24rx9m7g/vdbijs7rfxdp917/histoire+de+l%5C%27%C3%A9conomie+de+la+connaissance.pdf) | [Les économistes face au défi du climat](http://download1580.mediafire.com/gnjb8o0jkv6g/kahpy0gwu5y9dkx/Les+%C3%A9conomistes+face+au+climat.pdf) |
 [Classiques](http://download1499.mediafire.com/wd7zc7sou8fg/4lvhf1j828dbxd5/Classiques.doc) | Test | Test 2 | Test 3 |
 [Marx](http://www.mediafire.com/file/fr1xeo30krlplqq/Marx.doc)
-[Mandeville - Fable des abeilles](http://download1072.mediafire.com/1611l7mse3lg/6ko6j66wg1s45rd/Mandeville.pdf)
+[Mandeville - Fable des abeilles](http://download1072.mediafire.com/1611l7mse3lg/6ko6j66wg1s45rd/Mandeville.pdf) |
 
 [Retour au choix des chapitres](https://vaihess.github.io/eshece1/esh) <br />
 [Retour page d'accueil](https://vaihess.github.io/eshece1)
