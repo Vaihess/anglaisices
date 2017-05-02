@@ -14,4 +14,7 @@
 [Micro 1 (Consommateur / Producteur)](https://vaihess.github.io/eshece1/eshmicro1)<br />
 
 ## Macro :
-[Macro 1 (Compta nat)](https://vaihess.github.io/eshece1/eshchap1)<br />
+[Macro 1 (Compta nat)](https://vaihess.github.io/eshece1/eshchap1)<br /> <br />
+
+[Retour au choix des chapitres](https://vaihess.github.io/eshece1/esh) <br />
+[Retour page d'accueil](https://vaihess.github.io/eshece1)
