@@ -1,9 +1,8 @@
 # Cours d'ECE1
 ## Choisissez votre matière : <br />
-###### (seule la rubrique ESH est remplie) <br />
-[ESH](https://vaihess.github.io/eshece1/esh)
-[Culture](https://vaihess.github.io/eshece1/anglais)
+[ESH](https://vaihess.github.io/eshece1/esh) (y'a que celle-ci qu'est remplie) <br />
+[Culture](https://vaihess.github.io/eshece1/anglais) <br />
 [Maths](https://vaihess.github.io/eshece1/anglais) <br />
-[Espagnol](https://vaihess.github.io/eshece1/anglais)
-[Philo](https://vaihess.github.io/eshece1/anglais)
-[Anglais](https://vaihess.github.io/eshece1/anglais)
+[Espagnol](https://vaihess.github.io/eshece1/anglais) <br />
+[Philo](https://vaihess.github.io/eshece1/anglais) <br />
+[Anglais](https://vaihess.github.io/eshece1/anglais) <br />
