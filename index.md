@@ -12,4 +12,3 @@
 [Site d'ESH](http://esh-ozenne-1a-ulla.monsite-orange.fr/) <br />
 [Site de Maths](https://blazerece1.blogspot.fr/) <br />
 [Site de Philo](http://philoz.e-monsite.com/) <br />
-[Facebook de la classe](https://www.facebook.com/groups/1205838942816157/?ref=ts&fref=ts) <br />
