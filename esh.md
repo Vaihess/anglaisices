@@ -1,5 +1,5 @@
 # ESH
-## Choisissez votre chapitre :
+## Chapitres :
 [Chapitre introductif](https://vaihess.github.io/eshece1/eshchapintro) <br />
 [Chapitre 2 (Théories)](https://vaihess.github.io/eshece1/eshchap2)<br />
 [Chapitre 3 (Monnaie et finance)](https://vaihess.github.io/eshece1/eshchap3)<br />
