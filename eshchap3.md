@@ -2,10 +2,10 @@
 ### **Chapitre 3 :**
 
 #### Plan et dossier doc : <br />
-Télécharger le [plan](http://download1638.mediafire.com/w4tkooxymbxg/4xrib772ra0d7mr/Chap+2+plan.pdf)<br /> 
-[Partie I du dossier documentaire](http://download939.mediafire.com/7xc11myp9xqg/827dos28uudds9e/Chap+2+I+II+III.pdf) <br />
-[Partie II du dossier documentaire](http://download1651.mediafire.com/fwahurmjuwsg/rli7t0xg62yp6xn/Chap+2+IV.pdf) <br />
-[Partie II (suite) du dossier documentaire](http://download1594.mediafire.com/51xy3h1hcy0g/t20lio38yi9q8gp/Chap+2+V.pdf) <br />
+Télécharger le [plan](http://download854.mediafireuserdownload.com/b9bifbf7avyg/44uaxdw7b4a5zfy/Plan+Chap+3.pdf)<br /> 
+[Partie I du dossier documentaire](http://download1491.mediafireuserdownload.com/8mm028p531zg/a6chz73abe36f4d/Chap+3+partie+I.pdf) <br />
+[Partie II du dossier documentaire](http://download1339.mediafireuserdownload.com/4xq97x7v77og/x35m9rkj7q9ajwe/Chap+3+partie+II.pdf) <br />
+[Partie II (suite) du dossier documentaire](http://download1641.mediafireuserdownload.com/8k1u1bj8yx5g/k5s71wrtu3vssib/Chap+3+partie+II+suite.pdf) <br />
 
 #### Compléments : <br />
 
