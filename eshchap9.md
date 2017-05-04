@@ -1,7 +1,7 @@
 ## ESH : <br />
 ### Chapitre 9 : <br />
 
-``` markdown
+```
 Section vide
 ``` <br />
 [Retour au choix des chapitres](https://vaihess.github.io/eshece1/esh) <br />
