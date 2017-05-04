@@ -1,5 +1,5 @@
 ## ESH : <br />
-### ** Chapitre 7 : ** <br />
+### Chapitre 7 : <br />
 
 ``` markdown
 Section vide
