@@ -8,7 +8,6 @@ Télécharger le [plan](http://download854.mediafireuserdownload.com/b9bifbf7avy
 [Partie II (suite) du dossier documentaire](http://download1348.mediafire.com/8w9h71ukv5tg/7zecl5x2km87887/Chap+4+II+%28suite%29.pdf) <br />
 
 #### Compléments : <br />
-
 [Combemale - Partir de l'individu ou de la société](http://download722.mediafire.com/1x47chnan6sg/zin65tmyibqyiwg/Partir+de+l%5C%27individu+ou+de+la+soci%C3%A9t%C3%A9+-+Combemale.pdf)
  
 [Retour au choix des chapitres](https://vaihess.github.io/eshece1/esh) <br />
