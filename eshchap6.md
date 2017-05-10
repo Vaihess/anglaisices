@@ -1,11 +1,5 @@
 ## ESH :
 ### **Chapitre 6 :**
-
-#### Plan et dossier doc : <br />
-Télécharger le [plan](http://download1492.mediafireuserdownload.com/arogwlaglrwg/4fbi37anwwh6rve/Plan+chap+6.pdf)<br /> 
-[Partie I-II du dossier documentaire](http://download1646.mediafireuserdownload.com/0vyd3o642g1g/u2x27x9xa95i0l4/Chap+6+partie+I-II.pdf) <br />
-[Partie III du dossier documentaire](http://download1491.mediafireuserdownload.com/y1dn5kda45yg/9uvche6hrk3i635/Chap+6+partie+III.pdf) <br />
-
 #### Compléments : <br />
 
 Partie I | Partie II | Partie III 
