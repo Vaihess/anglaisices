@@ -7,11 +7,8 @@
 [Chapitre 5 (Entreprise)](https://vaihess.github.io/eshece1/eshchap5)<br />
 [Chapitre 6 (Croissance)](https://vaihess.github.io/eshece1/eshchap6)<br />
 [Chapitre 7 (Crises et fluctuations)](https://vaihess.github.io/eshece1/eshchap7)<br />
-[Chapitre 8 (à venir)](https://vaihess.github.io/eshece1/eshchap8)<br />
+[Chapitre 8 (Mutations sociales)](https://vaihess.github.io/eshece1/eshchap8)<br />
 [Chapitre 9 (à venir)](https://vaihess.github.io/eshece1/eshchap9)<br />
-
-## Micro :
-[Micro 1 (Consommateur / Producteur)](https://vaihess.github.io/eshece1/eshmicro1)<br />
 
 ## Macro :
 [Macro 1 (Compta nat)](https://vaihess.github.io/eshece1/eshmacro1)<br />
