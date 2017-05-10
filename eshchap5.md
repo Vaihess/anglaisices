@@ -1,14 +1,5 @@
 ## ESH :
 ### **Chapitre 5 :**
-
-#### Plan et dossier doc : <br />
-Télécharger le [plan](http://download1980.mediafire.com/nv43yrai44qg/bj6883qjrwcn2u7/Plan+chap+5.pdf)<br /> 
-[Partie I du dossier documentaire](http://download846.mediafire.com/45omgo3dnf7g/wik1bkip6jaatro/Chap+5+partie+I.pdf) <br />
-[Partie II du dossier documentaire](http://download1348.mediafire.com/yfbqfw38f68g/e3le4k8e4gowea7/Chap+5+II.pdf) <br />
-[Partie III du dossier documentaire](http://download1075.mediafire.com/etvxuyft2wng/4w4274vo2psdba7/Chap+5+partie+III.pdf) <br />
-[Dossier sur l'entrepreneur](http://download1497.mediafire.com/wifubq1qy9wg/x74l634aqpadp3e/Dossier+entrepreneur.pdf) <br />
-[Synthèse du chapitre](http://download1514.mediafire.com/aflaj2frh2cg/1alz2zaw6aziw6x/Synth%C3%A8se+chapitre+5.pdf) <br />
-
 #### Compléments : <br />
 
 Auteurs | Articles de presse | Documents
