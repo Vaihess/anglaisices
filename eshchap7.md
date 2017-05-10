@@ -1,10 +1,5 @@
 ## ESH : <br />
 ### Chapitre 7 : <br />
-#### Plan et dossier doc : <br />
-Télécharger le [plan](http://download1639.mediafireuserdownload.com/0aky2tncg0hg/7h35olk43ymbaa1/Plan+chap+7.pdf)<br /> 
-[Partie I du dossier documentaire](http://download1511.mediafireuserdownload.com/k7fj560452jg/s0mt0zzlrp90vn7/Chap+7+partie+I.pdf) <br />
-[Partie II - III du dossier documentaire](http://download1474.mediafireuserdownload.com/lk33x84cxvvg/2cwqs3nw5q8a4no/Chap+7+partie+II+-+III.pdf) <br />
-
 #### Compléments : <br />
 
 Colonne 1 | Colonne 2 | Colonne 3
