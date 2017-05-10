@@ -1,12 +1,5 @@
 ## ESH :
 ### **Chapitre 3 :**
-
-#### Plan et dossier doc : <br />
-Télécharger le [plan](http://download854.mediafireuserdownload.com/b9bifbf7avyg/44uaxdw7b4a5zfy/Plan+Chap+3.pdf)<br /> 
-[Partie I du dossier documentaire](http://download1491.mediafireuserdownload.com/8mm028p531zg/a6chz73abe36f4d/Chap+3+partie+I.pdf) <br />
-[Partie II du dossier documentaire](http://download1339.mediafireuserdownload.com/4xq97x7v77og/x35m9rkj7q9ajwe/Chap+3+partie+II.pdf) <br />
-[Partie II (suite) du dossier documentaire](http://download1641.mediafireuserdownload.com/8k1u1bj8yx5g/k5s71wrtu3vssib/Chap+3+partie+II+suite.pdf) <br />
-
 #### Compléments : <br />
 
 Fiches auteurs | Articles de presse | Documents
