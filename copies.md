@@ -1,7 +1,7 @@
 ## ESH : <br />
 ### Copies et corrigés : <br />
 #### Meilleures copies : <br />
-[Copie Salomé - Organisation de l'entreprise et efficacité économique]() <br />
+[Copie Salomé - Organisation de l'entreprise et efficacité économique](http://download1851.mediafire.com/enfbupbm04dg/02zxm6i76qvuxa9/copie+salom%C3%A9+ds+4.pdf) <br />
 
 #### Corrigés interro : <br />
 [Corrigé interro 1]() <br />
