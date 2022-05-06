@@ -3,7 +3,6 @@
 
 [Civilisation Britannique](https://vaihess.github.io/anglaisices/rodolphe) <br />
 [Civilisation Américaine](https://vaihess.github.io/anglaisices/civius) <br />
-[Compréhension Ecrite](https://vaihess.github.io/anglaisices/ce) <br />
 [Compréhension Orale](https://kahoot.it/) <br />
 [Expression Ecrite](https://vaihess.github.io/anglaisices/ee) <br />
 [Français](https://vaihess.github.io/anglaisices/fr) <br />
