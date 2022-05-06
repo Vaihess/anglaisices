@@ -1,16 +1,13 @@
 # Expression Ecrite : <br />
 
-[Chapitre 1 - Norman Conquest](https://mega.nz/file/55NWmb6S#a3WLHB7zmpoPZKM7W7a-5QtiYaHRjuySpUiqfMYMk08) <br />
-[Chapitre 2 - England and Normandy at stake](https://mega.nz/file/RtswUTCA#7m9Rm30DGLUVW0CmSTkGvS0hVU7xIgH7S4w5kFYoQpo) <br />
-[Chapitre 3 - Stephen and the Anarchy](https://mega.nz/file/o8l2ELSY#kmtC8tlESjYYCGjdcN2jWknDemrRewWAql0EerRz8W8) <br />
-[Chapitre 4 - Henry II](https://mega.nz/file/Bp9mAara#AOMyjRerKEOoUQAwDAV2XoEocoQ47LuBLgu0C24_blg) <br />
-[Chapitre 5 - Richard and John](https://mega.nz/file/YkFDEAgI#sgjNjMU2fJHLIauIjcTtc5DOVTJSyUQ58WIhzBSce3Q) <br />
-[Chapitre 6 - Henry III](https://mega.nz/file/Y8tASSAT#qBBxzec-xtnAjQIhrWHyntz5-ySsCV3d2E0AZlFKIpE) <br />
-[Chapitre 7 - Edward I](https://mega.nz/file/8kUk0IYJ#xDszowMRlvesMyMRdm9t1kkzRFE50_JsMKVtRrHAXiA) <br />
-[Chapitre 8 - Edward II - Edward III](https://mega.nz/file/t4dBAboI#xsV9i95VZGEIILfCCtAAap0kheyOGQFhMQ2Cg2tTN1s) <br />
-[Writing tips](https://mega.nz/file/to0HCRDR#ZZrP7saRD7ZvW69sB8Ys4EU3tymcMsyNyRinmET1MLw) <br />
-[Overview Magna Carta](https://mega.nz/file/hwcnVDLI#FftC1uETB0RW-lY4srzGW1uzb2sNB5sbuPnaGXRFq5c) <br />
-[Correction DS Henry II](https://mega.nz/file/s00V0J6L#1rMx1E6eOPA9f0e9h-j6ATuVAxfsl_-JXdOUAtya8rU) <br />
-[Prise de notes / Résumé du cours](https://mega.nz/file/wpU0HaZb#C4l_pbdnRcOUNgtV6qH8llgsfW9QJi3lE3O_XcPuQIM) <br />
+[Seminar 1](https://mega.nz/file/tgsTFZyS#TTJZSO4Wyl0qz5Pi_VjOa0VcpLvADXq5Rg6N9mNFG5w) <br />
+[Seminar 2](https://mega.nz/file/ppsQDQRK#O7Ybtap_VrSmhMtk8OpnFuQYDMOhgkW1XJph-T5297k) <br />
+[Seminar 3](https://mega.nz/file/BhN2GAwQ#av9_QtEEaf_1v0lTT0oKQcqDj6Phg7VDNH8eyM_RFes) <br />
+[Seminar 4](https://mega.nz/file/94MnWCIY#ZFCfx6Bl9rGIHPfz-plB_nIo7SWgCJH_ZmUroakFGGc) <br />
+[Seminar 5](https://mega.nz/file/Mxd2iZ7Y#Osdg4X7zDoroK5RIK4HtkNltPLqWxnCCYeZNKVoc5T0) <br />
+[Seminar 6, 7, 8](https://mega.nz/file/V1Nl2BoJ#gnLhviPHEQHvBanthhPbuNju4cs0DHd-id00e6RyvIY) <br />
+[Seminar 9](https://mega.nz/file/p58GRBRQ#7gS8WzhkwKsdUxVJiBi-UvKGlYh8_w2uSwHiKCn8L8o) <br />
+[Seminar 10](https://mega.nz/file/l1E03BJa#u2d5tYixwZmDWrFJcysUBUA6Ag-hLZv4GxLaUGJ-MOc) <br />
+[Final Seminar](https://mega.nz/file/N1FBgYhQ#9SZAgkOMPnk8e428DHgef3daOz_38jqDC0XcCQfwJd0) <br />
 
 [Retour](https://vaihess.github.io/anglaisices/)
