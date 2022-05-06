@@ -2,7 +2,7 @@
 ## Matières communes : <br />
 
 [Civilisation Britannique](https://vaihess.github.io/anglaisices/rodolphe) <br />
-[Civilisation Américaine](https://vaihess.github.io/anglaisices/civius) target="_blank <br />
+[Civilisation Américaine](https://vaihess.github.io/anglaisices/civius) <target="_blank> <br />
 [Compréhension Ecrite](https://vaihess.github.io/anglaisices/ce) <br />
 [Compréhension Orale](https://kahoot.it/) <br />
 [Drama](https://vaihess.github.io/anglaisices/drama) <br />
